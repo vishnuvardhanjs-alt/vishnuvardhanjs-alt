@@ -5,12 +5,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhanjs-alt&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="VishnuVardhanJS" /></p>
 
-<div>
-<h3 align="center">I Use Arch BTW!</h3> 
-<img alt="GitHub" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/a9029989166ef42e10251f9d0f0fd09e60be2f31/icons/archlinux-icon-crystal-32.svg">
-</div>
-</div>
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 <a href="https://github.com/vishnuvardhanjs-alt" target="_blank">
@@ -29,6 +23,6 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://leetcode.com/u/dsvv" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=">
+    <img alt="Gmail" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=white">
 </a>
 </div>
